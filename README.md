@@ -44,9 +44,9 @@ Customers
 <hr>
 Technology stack:
 
-Front-End: JSP, Html, CSS, JS, Bootstrap
-Server-side: Spring MVC, Hibernate
-Back-end: MYSQL
-Server: Apache Tomcat
+Front-End: JSP, Html, CSS, JS, Bootstrap <br>
+Server-side: Spring MVC, Hibernate <br>
+Back-end: MYSQL <br>
+Server: Apache Tomcat <br>
 
 
