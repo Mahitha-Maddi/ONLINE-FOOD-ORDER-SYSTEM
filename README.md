@@ -20,26 +20,36 @@ There are three main user roles of the application.
   <li>Customers</li>
   <li>Delivery Men</li>
 </ul>
-	<hr>
+<hr>
+
 Admin/Restaurant Owner
-•	Edit the menu of the restaurant
-•	View all the orders and accept/reject the orders
-•	Assign the orders to delivery men
-•	Accept/Reject catering orders placed by the customers
+<ul>
+  <li>Edit the menu of the restaurant</li>
+  <li>View all the orders and accept/reject the orders</li>
+  <li>Assign the orders to delivery men</li>
+  <li>Accept/Reject catering orders placed by the customers</li>
+</ul>	
 
 Delivery Men
-•	View all the orders assigned to him/her
-•	change the status of the orders once delivered
-
+<ul>
+  <li>View all the orders assigned to him/her</li>
+  <li>Change the status of the orders once delivered</li>
+</ul>	
 Customers
-•	Customers can register/log in to the application, view their pending orders and manage all the records like booking history
-•	Provide feedback for the orders received
-•	Make a booking for catering
+<ul>
+  <li>Customers can register/log in to the application, view their pending orders and manage all the records like booking history</li>
+  <li>Provide feedback for the orders received</li>
+  <li>Make a booking for catering</li>
+</ul>		
 <hr>
 Technology stack:
+
 Front-End: JSP, Html, CSS, JS, Bootstrap
+
 Server-side: Spring MVC, Hibernate
+
 Back-end: MYSQL
+
 Server: Apache Tomcat
 
 
